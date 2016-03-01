@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Character(BattleV)\TargetSelection.js">
+    <Files>
+      <File FileName="Assets\Scripts\Battle\CameraAnimation.js" Line="6" Column="39" />
+      <File FileName="Assets\Scripts\Character(BattleV)\SkillSelection.js" Line="277" Column="1" />
+      <File FileName="Assets\Scripts\Character(BattleV)\Move.js" Line="57" Column="3" />
+      <File FileName="Assets\Scripts\Character(BattleV)\TargetSelection.js" Line="31" Column="12" />
+      <File FileName="Assets\Scripts\Battle\Spawn.js" Line="39" Column="32" />
+      <File FileName="Assets\Scripts\Battle\TargetCursorPosition.js" Line="18" Column="1" />
+      <File FileName="Assets\Scripts\Character(FreeRoamV)\StartBattle.js" Line="6" Column="28" />
+      <File FileName="Assets\Scripts\Character(BattleV)\GUI\GuiEnemyHealth.js" Line="9" Column="39" />
+      <File FileName="Assets\Scripts\Character(BattleV)\TurnBar.js" Line="47" Column="21" />
+      <File FileName="Assets\Scripts\Character(BattleV)\CharacterStats.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
